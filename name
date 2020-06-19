@@ -1,7 +1,6 @@
 #Enter yor Name
 name = input("Enter your name: \n\n")
 
-# correction made by AmyHubbertx
 for c in name:
 
     c = c.upper()
